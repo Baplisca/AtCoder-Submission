@@ -1,0 +1,61 @@
+#include <bits/stdc++.h>
+using namespace std;
+
+//#define int long long
+#define ll long long
+#define all(v) (v).begin(), (v).end()
+#define rep(i,n) for(int i=0;i<n;++i)
+#define rep1(i,n) for(int i=1;i<n;++i)
+#define exrep(i, a, b) for(ll i = a; i < b; i++)
+#define out(x) cout << x << endl
+#define EPS (1e-7)
+#define gearup ios_base::sync_with_stdio(0);cin.tie(0);cout.tie(0);
+typedef pair<ll, ll> P;
+typedef vector<ll> vl;
+typedef vector<vector<ll> > vvl;
+typedef vector<vector<vector<ll> > > vvvl;
+ll MOD = 1000000007;
+const long long L_INF = 1LL << 60;
+const int INF = 2147483647; // 2^31-1
+const double PI = acos(-1);
+//cout<<fixed<<setprecision(10);
+
+template<class T> inline bool chmin(T& a, T b) {if (a > b) {a = b;return true;}return false;}
+template<class T> inline bool chmax(T& a, T b) {if (a < b) {a = b;return true;}return false;}
+template<class T> void debug(T v){rep(i,v.size()) cout<<v[i]<<" ";cout<<endl;}
+const ll dx[8] = {1, 1, 0, -1, -1, -1, 0, 1};
+const ll dy[8] = {0, 1, 1, 1, 0, -1, -1, -1};
+
+bool is_Prime(int x){
+    if(x < 2)return false;
+    else if(x == 2) return true;
+    for(ll i = 2; i*i <= x; i++) if(x%i == 0) return false;
+    return true;
+}
+
+int digsum(int n) {
+    int res = 0;
+    while(n > 0) {
+        res += n%10;
+        n /= 10;
+    }
+    return res;
+}
+
+signed main()
+{   
+    gearup;
+    int n;cin>>n;
+    if(is_Prime(n)){
+        out("Prime");
+        return 0;
+    }
+    int n1 = n % 10;
+    if(n != 1 && n1 % 2 == 1 && n1 != 5){
+        if(digsum(n) % 3 != 0){
+            out("Prime");
+            return 0;
+        }
+    }
+    out("Not Prime");
+}
