@@ -1,0 +1,12 @@
+{
+	"id": 14071445,
+	"epoch_second": 1591454490,
+	"problem_id": "codefestival_2016_final_b",
+	"contest_id": "cf16-final",
+	"user_id": "Baplisca",
+	"language": "C++14 (GCC 5.4.1)",
+	"point": 300,
+	"length": 2078,
+	"result": "AC",
+	"execution_time": 8
+}
