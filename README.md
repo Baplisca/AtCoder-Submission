@@ -1,2 +1,2 @@
 # AtCoder-Submission
-AtCoderの提出コード
+AtCoderの提出コード (ACしたもののみ)
