@@ -1,0 +1,12 @@
+{
+	"id": 17108131,
+	"epoch_second": 1601441185,
+	"problem_id": "sumitb2019_b",
+	"contest_id": "sumitrust2019",
+	"user_id": "Baplisca",
+	"language": "C++ (GCC 9.2.1)",
+	"point": 200,
+	"length": 1789,
+	"result": "AC",
+	"execution_time": 4
+}
