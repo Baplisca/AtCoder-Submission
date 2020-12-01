@@ -1,0 +1,12 @@
+{
+	"id": 18515568,
+	"epoch_second": 1606820041,
+	"problem_id": "ddcc2020_qual_a",
+	"contest_id": "ddcc2020-qual",
+	"user_id": "Baplisca",
+	"language": "C++ (GCC 9.2.1)",
+	"point": 100,
+	"length": 2002,
+	"result": "AC",
+	"execution_time": 8
+}
