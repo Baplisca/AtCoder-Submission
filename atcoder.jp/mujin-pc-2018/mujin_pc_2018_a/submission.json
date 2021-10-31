@@ -1,0 +1,12 @@
+{
+	"id": 26953688,
+	"epoch_second": 1635675812,
+	"problem_id": "mujin_pc_2018_a",
+	"contest_id": "mujin-pc-2018",
+	"user_id": "Baplisca",
+	"language": "C++ (GCC 9.2.1)",
+	"point": 100,
+	"length": 1927,
+	"result": "AC",
+	"execution_time": 6
+}
