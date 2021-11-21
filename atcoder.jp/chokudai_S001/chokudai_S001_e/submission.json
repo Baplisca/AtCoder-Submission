@@ -1,0 +1,12 @@
+{
+	"id": 27419229,
+	"epoch_second": 1637479901,
+	"problem_id": "chokudai_S001_e",
+	"contest_id": "chokudai_S001",
+	"user_id": "Baplisca",
+	"language": "C++ (GCC 9.2.1)",
+	"point": 200,
+	"length": 1959,
+	"result": "AC",
+	"execution_time": 6
+}
