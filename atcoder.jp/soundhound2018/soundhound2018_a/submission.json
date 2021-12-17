@@ -1,0 +1,12 @@
+{
+	"id": 27951213,
+	"epoch_second": 1639734933,
+	"problem_id": "soundhound2018_a",
+	"contest_id": "soundhound2018",
+	"user_id": "Baplisca",
+	"language": "C++ (GCC 9.2.1)",
+	"point": 100,
+	"length": 1938,
+	"result": "AC",
+	"execution_time": 5
+}
