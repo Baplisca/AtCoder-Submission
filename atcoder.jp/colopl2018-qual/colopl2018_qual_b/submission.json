@@ -1,0 +1,12 @@
+{
+	"id": 28031555,
+	"epoch_second": 1639988527,
+	"problem_id": "colopl2018_qual_b",
+	"contest_id": "colopl2018-qual",
+	"user_id": "Baplisca",
+	"language": "C++ (GCC 9.2.1)",
+	"point": 200,
+	"length": 2057,
+	"result": "AC",
+	"execution_time": 8
+}
