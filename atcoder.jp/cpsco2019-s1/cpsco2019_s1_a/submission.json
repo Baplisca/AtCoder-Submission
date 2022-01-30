@@ -1,0 +1,12 @@
+{
+	"id": 28888061,
+	"epoch_second": 1643513259,
+	"problem_id": "cpsco2019_s1_a",
+	"contest_id": "cpsco2019-s1",
+	"user_id": "Baplisca",
+	"language": "C++ (GCC 9.2.1)",
+	"point": 100,
+	"length": 1903,
+	"result": "AC",
+	"execution_time": 8
+}
