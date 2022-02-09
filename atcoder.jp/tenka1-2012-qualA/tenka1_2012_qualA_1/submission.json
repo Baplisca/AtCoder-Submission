@@ -1,0 +1,12 @@
+{
+	"id": 29176829,
+	"epoch_second": 1644385228,
+	"problem_id": "tenka1_2012_qualA_1",
+	"contest_id": "tenka1-2012-qualA",
+	"user_id": "Baplisca",
+	"language": "C++ (GCC 9.2.1)",
+	"point": 100,
+	"length": 2138,
+	"result": "AC",
+	"execution_time": 8
+}
