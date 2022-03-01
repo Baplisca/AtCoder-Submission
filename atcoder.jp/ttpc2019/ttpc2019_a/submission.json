@@ -1,0 +1,12 @@
+{
+	"id": 29790815,
+	"epoch_second": 1646133308,
+	"problem_id": "ttpc2019_a",
+	"contest_id": "ttpc2019",
+	"user_id": "Baplisca",
+	"language": "C++ (GCC 9.2.1)",
+	"point": 100,
+	"length": 1949,
+	"result": "AC",
+	"execution_time": 8
+}
