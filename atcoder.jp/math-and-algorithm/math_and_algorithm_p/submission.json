@@ -1,0 +1,12 @@
+{
+	"id": 30184486,
+	"epoch_second": 1647509888,
+	"problem_id": "math_and_algorithm_p",
+	"contest_id": "math-and-algorithm",
+	"user_id": "Baplisca",
+	"language": "C++ (GCC 9.2.1)",
+	"point": 1000,
+	"length": 1986,
+	"result": "AC",
+	"execution_time": 50
+}
