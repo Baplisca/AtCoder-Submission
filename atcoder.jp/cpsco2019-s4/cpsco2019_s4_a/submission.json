@@ -1,0 +1,12 @@
+{
+	"id": 31605153,
+	"epoch_second": 1652271425,
+	"problem_id": "cpsco2019_s4_a",
+	"contest_id": "cpsco2019-s4",
+	"user_id": "Baplisca",
+	"language": "Rust (1.42.0)",
+	"point": 100,
+	"length": 244,
+	"result": "AC",
+	"execution_time": 6
+}
