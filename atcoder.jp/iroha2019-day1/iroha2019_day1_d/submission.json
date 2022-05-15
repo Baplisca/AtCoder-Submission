@@ -1,0 +1,12 @@
+{
+	"id": 31727093,
+	"epoch_second": 1652621968,
+	"problem_id": "iroha2019_day1_d",
+	"contest_id": "iroha2019-day1",
+	"user_id": "Baplisca",
+	"language": "Rust (1.42.0)",
+	"point": 200,
+	"length": 518,
+	"result": "AC",
+	"execution_time": 5
+}
