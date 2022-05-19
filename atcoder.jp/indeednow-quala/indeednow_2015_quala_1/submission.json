@@ -1,0 +1,12 @@
+{
+	"id": 31800755,
+	"epoch_second": 1652964781,
+	"problem_id": "indeednow_2015_quala_1",
+	"contest_id": "indeednow-quala",
+	"user_id": "Baplisca",
+	"language": "Rust (1.42.0)",
+	"point": 100,
+	"length": 186,
+	"result": "AC",
+	"execution_time": 7
+}
