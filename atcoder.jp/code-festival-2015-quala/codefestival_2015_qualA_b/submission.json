@@ -1,0 +1,12 @@
+{
+	"id": 31818112,
+	"epoch_second": 1653057094,
+	"problem_id": "codefestival_2015_qualA_b",
+	"contest_id": "code-festival-2015-quala",
+	"user_id": "Baplisca",
+	"language": "Rust (1.42.0)",
+	"point": 100,
+	"length": 309,
+	"result": "AC",
+	"execution_time": 6
+}
