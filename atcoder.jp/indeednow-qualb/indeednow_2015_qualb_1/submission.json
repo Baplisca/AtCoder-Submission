@@ -1,0 +1,12 @@
+{
+	"id": 31825274,
+	"epoch_second": 1653110490,
+	"problem_id": "indeednow_2015_qualb_1",
+	"contest_id": "indeednow-qualb",
+	"user_id": "Baplisca",
+	"language": "Rust (1.42.0)",
+	"point": 100,
+	"length": 227,
+	"result": "AC",
+	"execution_time": 5
+}
