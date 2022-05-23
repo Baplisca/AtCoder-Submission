@@ -1,0 +1,12 @@
+{
+	"id": 31924142,
+	"epoch_second": 1653345487,
+	"problem_id": "yahoo_procon2017_qual_b",
+	"contest_id": "yahoo-procon2017-qual",
+	"user_id": "Baplisca",
+	"language": "Rust (1.42.0)",
+	"point": 200,
+	"length": 261,
+	"result": "AC",
+	"execution_time": 27
+}
