@@ -1,0 +1,12 @@
+{
+	"id": 32072530,
+	"epoch_second": 1653796351,
+	"problem_id": "dwango2015_prelims_1",
+	"contest_id": "dwango2015-prelims",
+	"user_id": "Baplisca",
+	"language": "Rust (1.42.0)",
+	"point": 100,
+	"length": 195,
+	"result": "AC",
+	"execution_time": 5
+}
