@@ -1,0 +1,12 @@
+{
+	"id": 32112174,
+	"epoch_second": 1653912565,
+	"problem_id": "code_festival_morning_easy_a",
+	"contest_id": "code-festival-2014-morning-easy",
+	"user_id": "Baplisca",
+	"language": "Rust (1.42.0)",
+	"point": 100,
+	"length": 274,
+	"result": "AC",
+	"execution_time": 6
+}
