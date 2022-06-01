@@ -1,0 +1,12 @@
+{
+	"id": 32151656,
+	"epoch_second": 1654123140,
+	"problem_id": "code_formula_2014_qualB_a",
+	"contest_id": "code-formula-2014-qualb",
+	"user_id": "Baplisca",
+	"language": "Rust (1.42.0)",
+	"point": 100,
+	"length": 151,
+	"result": "AC",
+	"execution_time": 6
+}
