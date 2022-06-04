@@ -1,0 +1,12 @@
+{
+	"id": 32197681,
+	"epoch_second": 1654342826,
+	"problem_id": "tenka1_2013_qualA_b",
+	"contest_id": "tenka1-2013-quala",
+	"user_id": "Baplisca",
+	"language": "Rust (1.42.0)",
+	"point": 30,
+	"length": 391,
+	"result": "AC",
+	"execution_time": 7
+}
