@@ -1,0 +1,12 @@
+{
+	"id": 32305094,
+	"epoch_second": 1654601610,
+	"problem_id": "code_festival_relay_a",
+	"contest_id": "code-festival-2014-relay",
+	"user_id": "Baplisca",
+	"language": "Rust (1.42.0)",
+	"point": 100,
+	"length": 231,
+	"result": "AC",
+	"execution_time": 5
+}
