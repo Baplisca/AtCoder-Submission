@@ -1,0 +1,12 @@
+{
+	"id": 32502743,
+	"epoch_second": 1655375324,
+	"problem_id": "k2pc001_e1",
+	"contest_id": "k2pc-easy",
+	"user_id": "Baplisca",
+	"language": "Rust (1.42.0)",
+	"point": 500,
+	"length": 302,
+	"result": "AC",
+	"execution_time": 5
+}
