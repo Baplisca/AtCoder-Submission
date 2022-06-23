@@ -1,0 +1,12 @@
+{
+	"id": 32677772,
+	"epoch_second": 1655993003,
+	"problem_id": "abc250_a",
+	"contest_id": "abc250",
+	"user_id": "Baplisca",
+	"language": "Rust (1.42.0)",
+	"point": 100,
+	"length": 422,
+	"result": "AC",
+	"execution_time": 6
+}
