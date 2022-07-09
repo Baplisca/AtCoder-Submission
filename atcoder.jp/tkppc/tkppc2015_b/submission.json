@@ -1,0 +1,12 @@
+{
+	"id": 33129662,
+	"epoch_second": 1657378653,
+	"problem_id": "tkppc2015_b",
+	"contest_id": "tkppc",
+	"user_id": "Baplisca",
+	"language": "Rust (1.42.0)",
+	"point": 40,
+	"length": 372,
+	"result": "AC",
+	"execution_time": 18
+}
